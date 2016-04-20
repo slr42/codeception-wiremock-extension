@@ -19,14 +19,14 @@
 			"Codeception\\" : "src"
 		}
 	},
-	"name" : "mcustiel/codeception-wiremock-extension",
+	"name" : "ivashkevitch/codeception-wiremock-extension",
 	"type" : "library",
 	"description" : "Wiremock extension for Codeception",
 	"license" : "GPL-3.0+",
 	"require" : {
-		"php" : ">=5.4",
+		"php" : ">=5.6",
 		"codeception/codeception" : "^2.0.0",
-		"wiremock-php/wiremock-php" : "^1.43"
+		"wiremock-php/wiremock-php" : "^2.18"
 	},
 	"require-dev" : {
 		"phing/phing" : "^2.12.0",
