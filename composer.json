@@ -19,7 +19,7 @@
 			"Codeception\\" : "src"
 		}
 	},
-	"name" : "ivashkevitch/codeception-wiremock-extension",
+	"name" : "lamoda/codeception-wiremock-extension",
 	"type" : "library",
 	"description" : "Wiremock extension for Codeception",
 	"license" : "GPL-3.0+",

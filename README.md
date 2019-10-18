@@ -20,31 +20,9 @@ If you need an application with a functionality that is similar to the one offer
 
 This project is published in packagist, so you just need to add it as a dependency in your composer.json:
 
-```javascript
-    "require": {
-        // ...
-        "mcustiel/codeception-wiremock-extension": "*"
-    }
+```bash
+$ composer require lamoda/codeception-wiremock-extension
 ```
-
-If you want to access directly to this repo, adding this to your composer.json should be enough:
-
-```javascript  
-{
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mcustiel/codeception-wiremock-extension"
-        }
-    ],
-    "require": {
-        "mcustiel/codeception-wiremock-extension": "dev-master"
-    }
-}
-```
-
-Or just download the release and include it in your path.
-
 ## Configuration Examples
 
 ### Module
